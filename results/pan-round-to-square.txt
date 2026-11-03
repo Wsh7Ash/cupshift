@@ -1,0 +1,4 @@
+factor 1.006x
+multiply every ingredient by 1.006
+  - factor is the area ratio, assuming the same filling depth
+  - mixed shapes: the ratio uses pi to fifteen places and is an approximation

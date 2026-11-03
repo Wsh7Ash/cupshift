@@ -1,0 +1,120 @@
+{
+  "title": "Buttermilk Pancakes",
+  "factor": "1 1/2",
+  "factor_value": 1.5,
+  "source_servings": "8",
+  "target_servings": "12",
+  "items": [
+    {
+      "name": "all-purpose flour",
+      "quantity": "3",
+      "unit": "cups",
+      "grams": "375 g",
+      "note": null,
+      "package": null,
+      "flags": [],
+      "unscalable": false,
+      "original": "2 cups all-purpose flour"
+    },
+    {
+      "name": "buttermilk",
+      "quantity": "2 5/8",
+      "unit": "cups",
+      "grams": "640 g",
+      "note": null,
+      "package": null,
+      "flags": [],
+      "unscalable": false,
+      "original": "1 3/4 cups buttermilk"
+    },
+    {
+      "name": "baking powder",
+      "quantity": "2 1/4",
+      "unit": "tsp",
+      "grams": "10 g",
+      "note": null,
+      "package": null,
+      "flags": [
+        "leavening does not scale linearly; check the rise and texture"
+      ],
+      "unscalable": false,
+      "original": "1 1/2 tsp baking powder"
+    },
+    {
+      "name": "baking soda",
+      "quantity": "3/4",
+      "unit": "tsp",
+      "grams": "4 g",
+      "note": null,
+      "package": null,
+      "flags": [
+        "leavening does not scale linearly; check the rise and texture"
+      ],
+      "unscalable": false,
+      "original": "1/2 tsp baking soda"
+    },
+    {
+      "name": "granulated sugar",
+      "quantity": "3",
+      "unit": "tbsp",
+      "grams": "37 g",
+      "note": null,
+      "package": null,
+      "flags": [],
+      "unscalable": false,
+      "original": "2 tbsp granulated sugar"
+    },
+    {
+      "name": "salt",
+      "quantity": "1 1/2",
+      "unit": "tsp",
+      "grams": "9 g",
+      "note": null,
+      "package": null,
+      "flags": [
+        "season to taste after scaling rather than trusting the arithmetic"
+      ],
+      "unscalable": false,
+      "original": "1 tsp salt"
+    },
+    {
+      "name": "large eggs",
+      "quantity": "3",
+      "unit": null,
+      "grams": null,
+      "note": null,
+      "package": null,
+      "flags": [],
+      "unscalable": false,
+      "original": "2 large eggs"
+    },
+    {
+      "name": "butter",
+      "quantity": "1/4",
+      "unit": "cup",
+      "grams": "57 g",
+      "note": "melted",
+      "package": null,
+      "flags": [],
+      "unscalable": false,
+      "original": "3 tbsp butter, melted"
+    },
+    {
+      "name": "nutmeg",
+      "quantity": "1 1/2",
+      "unit": "pinches",
+      "grams": null,
+      "note": null,
+      "package": null,
+      "flags": [
+        "season to taste after scaling rather than trusting the arithmetic"
+      ],
+      "unscalable": false,
+      "original": "a pinch of nutmeg"
+    }
+  ],
+  "notes": [
+    "servings 8 -> 12",
+    "factor 1 1/2x"
+  ]
+}

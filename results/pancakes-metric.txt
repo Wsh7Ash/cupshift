@@ -1,0 +1,23 @@
+Buttermilk Pancakes  (factor 1x, servings 8 -> 8)
+
+ingredient         amount    grams
+-----------------  --------  -----
+all-purpose flour  475 ml    250 g
+buttermilk         415 ml    425 g
+baking powder      7 1/2 ml  7 g
+baking soda        2 1/2 ml  3 g
+granulated sugar   30 ml     25 g
+salt               5 ml      6 g
+large eggs         2         
+butter             45 ml     43 g
+nutmeg             1/2 ml    
+
+notes
+  - baking powder: leavening does not scale linearly; check the rise and texture
+  - baking soda: leavening does not scale linearly; check the rise and texture
+  - salt: season to taste after scaling rather than trusting the arithmetic
+  - nutmeg: season to taste after scaling rather than trusting the arithmetic
+
+scaling
+  - servings 8 -> 8
+  - factor 1x

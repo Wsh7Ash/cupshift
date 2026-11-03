@@ -1,0 +1,12 @@
+{
+  "raw": "1 (14 oz) can chopped tomatoes",
+  "quantity": "1",
+  "quantity_high": null,
+  "unit": "can",
+  "family": "count",
+  "name": "chopped tomatoes",
+  "note": null,
+  "package": "14 oz",
+  "unscalable": false,
+  "reason": null
+}
